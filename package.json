@@ -1,0 +1,9 @@
+{
+  "name": "api-restaurant",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Diogo Oliveira",
+  "license": "ISC",
+  "description": "API to manage orders from restaurant tables."
+}
